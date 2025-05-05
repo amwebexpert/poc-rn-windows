@@ -6,7 +6,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "windows": "npx @react-native-community/cli run-windows"
+    "windows": "npx @react-native-community/cli run-windows --arch x86"
   },
   "dependencies": {
     "react": "19.0.0",
